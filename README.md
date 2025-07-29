@@ -1,2 +1,2 @@
 # Springboot-Project
-Created a project using springboot framework and used maven as database 
+Created a project using springboot framework, apace maven and aiven for database
